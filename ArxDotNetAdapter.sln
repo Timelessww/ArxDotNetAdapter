@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArxDotNetAdapter", "ArxDotNetAdapter\ArxDotNetAdapter.csproj", "{E5A0B263-0D90-44A0-9C5E-164594A10D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetLine", "GetLine\GetLine.csproj", "{C15663EB-8D2C-4EE8-93E6-167103B77FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A0B263-0D90-44A0-9C5E-164594A10D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A0B263-0D90-44A0-9C5E-164594A10D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A0B263-0D90-44A0-9C5E-164594A10D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A0B263-0D90-44A0-9C5E-164594A10D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15663EB-8D2C-4EE8-93E6-167103B77FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15663EB-8D2C-4EE8-93E6-167103B77FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15663EB-8D2C-4EE8-93E6-167103B77FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15663EB-8D2C-4EE8-93E6-167103B77FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACAB788-5411-45E5-B41F-70B0EA91EB39}
+	EndGlobalSection
+EndGlobal
